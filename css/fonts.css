@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'museo_sans_cyrl700';
+    src: url('../fonts/ofont.ru_museo_sans_cyrl_700-webfont.eot');
+    src: url('../fonts/ofont.ru_museo_sans_cyrl_700-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ofont.ru_museo_sans_cyrl_700-webfont.woff2') format('woff2'),
+         url('../fonts/ofont.ru_museo_sans_cyrl_700-webfont.woff') format('woff'),
+         url('../fonts/ofont.ru_museo_sans_cyrl_700-webfont.ttf') format('truetype'),
+         url('../fonts/ofont.ru_museo_sans_cyrl_700-webfont.svg#museo_sans_cyrl700') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'museo_sans_cyrl300';
+    src: url('../fonts/museosanscyrl_0-300-webfont.eot');
+    src: url('../fonts/museosanscyrl_0-300-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/museosanscyrl_0-300-webfont.woff2') format('woff2'),
+         url('../fonts/museosanscyrl_0-300-webfont.woff') format('woff'),
+         url('../fonts/museosanscyrl_0-300-webfont.ttf') format('truetype'),
+         url('../fonts/museosanscyrl_0-300-webfont.svg#museo_sans_cyrl300') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'museo_sans_cyrl500';
+    src: url('../fonts/museosanscyrl_1-500-webfont.eot');
+    src: url('../fonts/museosanscyrl_1-500-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/museosanscyrl_1-500-webfont.woff2') format('woff2'),
+         url('../fonts/museosanscyrl_1-500-webfont.woff') format('woff'),
+         url('../fonts/museosanscyrl_1-500-webfont.ttf') format('truetype'),
+         url('../fonts/museosanscyrl_1-500-webfont.svg#museo_sans_cyrl500') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'ArialRoundedMTBold';
+  src: url('../fonts/ArialRoundedMTBold.eot?#iefix') format('embedded-opentype'),  url('../fonts/ArialRoundedMTBold.woff') format('woff'), url('../fonts/ArialRoundedMTBold.ttf')  format('truetype'), url('../fonts/ArialRoundedMTBold.svg#ArialRoundedMTBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
